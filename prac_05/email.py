@@ -9,11 +9,6 @@ CP1404 Practical - Suggested Solution
 Email to name dictionary
 """
 
-"""
-CP1404/CP5632 Practical - Suggested Solution
-Email to name dictionary
-"""
-
 
 def main():
     """Create dictionary of emails-to-names."""
