@@ -6,6 +6,7 @@ Testing code using assert and doctest
 import doctest
 from prac_06.car import Car  # Ensure you have the correct path to the Car class
 
+
 def repeat_string(s, n):
     """Repeat string s, n times, with spaces in between."""
     return " ".join([s] * n)  # Ensure spaces are added correctly
